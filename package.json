@@ -1,0 +1,15 @@
+{
+  "name": "express-js-project",
+  "version": "1.0.0",
+  "description": "project startup",
+  "main": "server.js",
+  "type": "module", 
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "YiHeng",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
